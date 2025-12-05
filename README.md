@@ -470,14 +470,9 @@ Tested with Anki 2.1+ (Qt6)
 
 ## Installation
 
-1. Close Anki.  
-2. Clone or download this repository.  
-3. Place the folder in your Anki `addons21` directory, for example:
-   - **macOS**: `~/Library/Application Support/Anki2/addons21/llm_review_stats`  
-   - **Windows**: `%APPDATA%\Anki2\addons21\llm_review_stats`
-   - **Linux**: `~/.local/share/Anki2/addons21/llm_review_stats`
-
-4. Restart Anki.
+1. Open Anki.
+2. Go to "Tools → Add-ons → Get Add-ons..." and paste this code: `700044641`
+3. Restart Anki.
 
 You should now see a new menu entry:
 
