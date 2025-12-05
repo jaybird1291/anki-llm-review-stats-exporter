@@ -23,7 +23,7 @@ This add-on exports that data into an **LLM-friendly JSONL file**, so you can dr
 - concrete advice to fix your pacing, workload, and study method  
 
 
-### Example
+## Example
 **JSONL** - 90 days of reviews from the *Kaishi 1.5k* (japanese vocab deck):
 - total reviews: 22k+
 - default size: 3.8M
@@ -51,7 +51,7 @@ __Compact__:
 ...... STRIPPED ......
 ```
 
-**ChatGPT-5.1 Thinking** *(using compact jsonl)*:
+➡️ **ChatGPT-5.1 Thinking** *(using compact jsonl)*:
 
 <details>
   <summary>Result</summary>
